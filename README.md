@@ -1,4 +1,4 @@
-UoE MSc Enterprise IT Management Repository
+**UoE MSc Enterprise IT Management Repository**
 
 This repository contains coursework, projects, and resources developed during the MSc in Enterprise IT Management (EITM) program at the University of Essex. It serves as a central hub for assignments, quantitative modeling, and reflections on key topics within enterprise IT management, risk modeling, and innovation strategies.
 
